@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# setup-zendesk-mcp.sh
+# setup_zendesk_mcp.sh
 # One-command setup: Zendesk MCP server for Claude Desktop (and Claude Code) on macOS.
 # Usage:  bash setup_zendesk_mcp.sh
 set -euo pipefail
